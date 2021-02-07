@@ -10,8 +10,3 @@ teker teker restorana geldiğini varsayalım. Her müşteri istediği kadar sipa
 Burada önemli olan gerçek hayatta olduğu gibi masalarda oturan müşterilerin, sipariş alan garsonların ve siparişleri hazırlayan
 şeflerin gerçekten olduğu gibi birbirlerinden bağımsız çalışabilmesi ve her işlem sırasında ve sonrasında simulasyonun doğru
 çalıştığını anlayabilmemiz için uygun logların ekrana basılması gerekir.
-
-Ödev tamamen java dilinde multithread özelliğinin kullanılma yeteneğini ölçmeye yöneliktir. Her bir müşteriyi, garsonu ve şefi
-birer thred olarak düşünebilirsiniz.
-
-Ödev teslim tarihi 16 Ocak saat 00:00.
